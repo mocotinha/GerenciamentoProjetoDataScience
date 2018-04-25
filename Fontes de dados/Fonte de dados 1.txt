@@ -1,0 +1,2 @@
+Dicionario de dados
+Acessos e metodos para possibilitar o acesso
